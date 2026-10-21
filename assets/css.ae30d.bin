@@ -1,0 +1,24 @@
+@font-face {
+  font-family: 'Quattrocento Sans';
+  font-style: italic;
+  font-weight: 400;
+  src: url("../fonts/va9a4lja2NVIDdIAAoMR5MfuElaRB0zMh0P2HQ.981f0.ttf") format('truetype');
+}
+@font-face {
+  font-family: 'Quattrocento Sans';
+  font-style: italic;
+  font-weight: 700;
+  src: url("../fonts/va9X4lja2NVIDdIAAoMR5MfuElaRB0zMj_bTDXDoiA.981f0.ttf") format('truetype');
+}
+@font-face {
+  font-family: 'Quattrocento Sans';
+  font-style: normal;
+  font-weight: 400;
+  src: url("../fonts/va9c4lja2NVIDdIAAoMR5MfuElaRB0zHt0o.981f0.ttf") format('truetype');
+}
+@font-face {
+  font-family: 'Quattrocento Sans';
+  font-style: normal;
+  font-weight: 700;
+  src: url("../fonts/va9Z4lja2NVIDdIAAoMR5MfuElaRB0RyklrfPXk.981f0.ttf") format('truetype');
+}

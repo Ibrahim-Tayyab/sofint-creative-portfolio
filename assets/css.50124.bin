@@ -1,0 +1,12 @@
+@font-face {
+  font-family: 'Quattrocento';
+  font-style: normal;
+  font-weight: 400;
+  src: url("../fonts/OZpEg_xvsDZQL_LKIF7q4jP3zWj_.8ab0d.ttf") format('truetype');
+}
+@font-face {
+  font-family: 'Quattrocento';
+  font-style: normal;
+  font-weight: 700;
+  src: url("../fonts/OZpbg_xvsDZQL_LKIF7q4jP_eE3vfqnd.8ab0d.ttf") format('truetype');
+}
